@@ -7,3 +7,4 @@ GPIO Electrical Specifications http://www.mosaic-industries.com/embedded-systems
 matlab and rasperry pi http://home.eeworld.com.cn/my/space-uid-216477-blogid-438902.html
 
 matlab and raspberry pi https://cn.mathworks.com/help/supportpkg/raspberrypiio/examples/working-with-raspberry-pi-hardware.html
+http://www.ilovematlab.cn/article-8-1.html
