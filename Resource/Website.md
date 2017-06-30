@@ -7,3 +7,5 @@
 树莓派 GPIO应用详解 http://www.jianshu.com/p/f31b90cc756f , http://www.jianshu.com/p/008339095fd6   (引脚介绍 设置引脚电平)
 
 Python编程的细节说明 http://www.alsrobot.cn/article-233.html
+
+RPi Low-level peripherals http://elinux.org/RPi_Low-level_peripherals
