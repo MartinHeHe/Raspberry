@@ -5,3 +5,5 @@
 树莓派电脑控制led灯亮起来 http://www.jianshu.com/p/cd6576d7a95c (非常详细的教程)
 
 树莓派 GPIO应用详解 http://www.jianshu.com/p/f31b90cc756f , http://www.jianshu.com/p/008339095fd6   (引脚介绍 设置引脚电平)
+
+Python编程的细节说明 http://www.alsrobot.cn/article-233.html
