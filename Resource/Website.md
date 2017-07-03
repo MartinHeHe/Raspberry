@@ -9,3 +9,5 @@
 Python编程的细节说明 http://www.alsrobot.cn/article-233.html
 
 RPi Low-level peripherals http://elinux.org/RPi_Low-level_peripherals
+
+RPi Mac  http://jingyan.baidu.com/article/59703552d745948fc00740fe.html
