@@ -1,6 +1,6 @@
 树莓派 & MySQL: http://blog.itist.tw/2015/02/raspberry-pi-install-mysql-or-mariadb.html
 
-树莓派超声波测距模块 http://www.jianshu.com/p/293415ae3e9c
+树莓派超声波测距模块 http://www.jianshu.com/p/293415ae3e9c    有Github的完整程序
 
 树莓派电脑控制led灯亮起来 http://www.jianshu.com/p/cd6576d7a95c (非常详细的教程)
 
