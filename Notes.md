@@ -8,3 +8,6 @@ matlab and rasperry pi http://home.eeworld.com.cn/my/space-uid-216477-blogid-438
 
 matlab and raspberry pi https://cn.mathworks.com/help/supportpkg/raspberrypiio/examples/working-with-raspberry-pi-hardware.html
 http://www.ilovematlab.cn/article-8-1.html
+
+
+Get system time http://www.runoob.com/python/python-exercise-example10.html
