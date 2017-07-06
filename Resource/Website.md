@@ -13,3 +13,5 @@ RPi Low-level peripherals http://elinux.org/RPi_Low-level_peripherals
 RPi Mac  http://jingyan.baidu.com/article/59703552d745948fc00740fe.html
 
 Mango loves carrot http://blog.mangolovecarrot.net/
+
+beginning  https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-blinking
