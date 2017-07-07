@@ -18,4 +18,4 @@ beginning  https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-b
 
 adc https://www.raspberrypi.com.tw/tag/adc/
 
-数码管 http://www.lovegeek.cn/?p=893   http://www.jianshu.com/p/e8b4eac50ca3
+数码管 http://www.lovegeek.cn/?p=893   http://www.jianshu.com/p/e8b4eac50ca3  http://shumeipai.nxez.com/2016/06/05/use-74hc595-chip-digital-control-drive.html
