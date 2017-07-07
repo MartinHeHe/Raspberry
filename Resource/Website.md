@@ -18,4 +18,4 @@ beginning  https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-b
 
 adc https://www.raspberrypi.com.tw/tag/adc/
 
-数码管 http://www.lovegeek.cn/?p=893
+数码管 http://www.lovegeek.cn/?p=893   http://www.jianshu.com/p/e8b4eac50ca3
