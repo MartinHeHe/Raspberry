@@ -21,3 +21,5 @@ adc https://www.raspberrypi.com.tw/tag/adc/
 数码管 http://www.lovegeek.cn/?p=893   http://www.jianshu.com/p/e8b4eac50ca3  http://shumeipai.nxez.com/2016/06/05/use-74hc595-chip-digital-control-drive.html
 
 树莓派 8 digit 驱动数码管 http://blog.mangolovecarrot.net/2015/06/08/raspi-study0802/
+
+树莓派电脑控制双位数码管显示时间秒数 http://www.jianshu.com/p/dd350161ed8f
